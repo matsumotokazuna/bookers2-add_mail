@@ -81,3 +81,4 @@ gem 'jquery-rails'
 
 gem "actionview", ">= 5.2.4.2"
 gem 'dotenv-rails'
+gem "pry-byebug"
